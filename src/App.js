@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
+import Router from "./Router";
+// import Layout from "./Layout";
 
 function App() {
   return (
-    <div>
-      <h1>hello world</h1>
-    </div>
+    <Router />
   );
 }
 
